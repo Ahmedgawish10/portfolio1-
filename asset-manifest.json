@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio1-/static/css/main.27bddcf0.css",
+    "main.js": "/portfolio1-/static/js/main.6777d008.js",
+    "static/js/787.b2e1b36e.chunk.js": "/portfolio1-/static/js/787.b2e1b36e.chunk.js",
+    "static/media/iti-ecommerce.png": "/portfolio1-/static/media/iti-ecommerce.70f7c7bdf7e981c703fe.png",
+    "static/media/portfolio-compny.png": "/portfolio1-/static/media/portfolio-compny.3dda71d89ec18de8ec6e.png",
+    "static/media/gawish.jpg": "/portfolio1-/static/media/gawish.f2c423ae0a4ff36bdb87.jpg",
+    "static/media/AhmedGawish.pdf": "/portfolio1-/static/media/AhmedGawish.893dc16db36411a11757.pdf",
+    "static/media/work4.jpg": "/portfolio1-/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/portfolio1-/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work3.jpg": "/portfolio1-/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/portfolio1-/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/portfolio1-/index.html",
+    "main.27bddcf0.css.map": "/portfolio1-/static/css/main.27bddcf0.css.map",
+    "main.6777d008.js.map": "/portfolio1-/static/js/main.6777d008.js.map",
+    "787.b2e1b36e.chunk.js.map": "/portfolio1-/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27bddcf0.css",
+    "static/js/main.6777d008.js"
+  ]
+}
